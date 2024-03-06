@@ -1,0 +1,10 @@
+package fff;
+
+public class dTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
